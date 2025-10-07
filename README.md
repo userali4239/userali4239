@@ -1,4 +1,5 @@
 <!-- PROFILE HEADER -->
+![logo](https://github.com/userali4239/userali4239/blob/main/Github%20Banner.png)
 
 <div align="center">
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=userali4239.userali4239" />
