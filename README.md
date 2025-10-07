@@ -121,14 +121,7 @@
 <div style="display: flex; justify-content: space-evenly; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rehmanflutter&show_icons=true&locale=en&layout=compact" alt="rehmanflutter" style="width: 250px; height: 250px;">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computador" style="width: 300px; height: 300px;">
-  <!--   <img src="https://github-readme-stats.vercel.app/api?username=rehmanflutter&show_icons=true&locale=en" alt="rehmanflutter" style="width: 250px; height: 250px;"> -->
-
- 
-</div>
-
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+  <!--   <img src="https://github-readme-stats.vercel.app/api?username=rehmanflutter&show_icons=true&locale=en" alt="rehmanflutter" style="width: 250px; height: 250px;"> --> 
 </div>
 
 
@@ -136,6 +129,10 @@
 ## 🎉 Thanks for Visiting!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&color=199A8E&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+For+Visiting!+❤️;Let's+Connect+and+Build+Something+Awesome!;Happy+Coding+🔥;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&color=199A8E&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+For+Visiting!+❤️;Let's+Connect+Build+Something+Awesome!;Happy+Coding+🔥;" />
 </div>
 
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
