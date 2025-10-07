@@ -2,15 +2,9 @@
 ![logo](https://github.com/userali4239/userali4239/blob/main/Github%20Banner.png)
 
 <div align="center">
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=userali4239.userali4239" />
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;I'm+Ali+Raza+Warriach!+🚀;Flutter+Developer+💙;UI%2FUX+Designer+🎨" />
-</div>
-
-
-
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px"/>
-  <h3>Welcome to My Coding Universe! 🌌</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;Welcome+to+My;Coding+Universe!+🌌;I'm+Ali+Raza+Warriach!+🚀;Flutter+Developer+💙;UI%2FUX+Designer+🎨" />
 </div>
 
 
