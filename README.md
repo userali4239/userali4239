@@ -64,6 +64,13 @@
 
 
 
+## 📈 Graph
+<p align="center">
+   <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
+</p>
+
+
+
 ## 📊 GitHub Stats & Trophies
 
 <div align="center">
@@ -81,7 +88,6 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=userali4239&theme=dracula&margin-w=15&no-frame=true" />
 </div>
-
 
 
 
