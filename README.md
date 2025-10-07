@@ -25,10 +25,7 @@
 - 🧩 Tech stack: Flutter • Dart • Firebase • C++ • Java • Figma  
 - ⚡ **Fun Fact:** My Flutter builds are faster than my Wi-Fi! 😂  
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
-
+----
 
 
 
@@ -42,6 +39,9 @@
 - 🎥 Creating short dev tips for my **Linkdin, Facebook, Youtube, Instagram, Threads, X(Twitter) & Pinterest audience**
 
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
 
 
 ## 🛠️ Languages & Tools
@@ -49,7 +49,6 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,figma,github,java,cpp" />
 </div>
-
 
 
 
@@ -63,6 +62,10 @@
 >  *Now, I'm working on more projects.!*
 > 💡 *More cool stuff coming soon… stay tuned!* 😎  
 
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
 
 
 
@@ -99,6 +102,10 @@
 
 
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
 
 
 ## ☕ Debugging Fuel 😆
@@ -119,6 +126,10 @@
  
 </div>
 
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
 
 
 
