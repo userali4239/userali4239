@@ -1,0 +1,127 @@
+from pathlib import Path
+
+out = Path("/mnt/data")
+terminal_svg = r'''<svg xmlns="http://www.w3.org/2000/svg" width="850" height="520" viewBox="0 0 850 520">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07111f"/>
+      <stop offset="100%" stop-color="#0d1b2e"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#3bbcff"/>
+      <stop offset="100%" stop-color="#8aa9ff"/>
+    </linearGradient>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-opacity=".35"/>
+    </filter>
+  </defs>
+
+  <rect x="8" y="8" width="834" height="504" rx="22" fill="url(#bg)"
+        stroke="#284766" stroke-width="2"/>
+
+  <!-- Terminal bar -->
+  <rect x="9" y="9" width="832" height="58" rx="21" fill="#081522"/>
+  <path d="M9 67H841" stroke="#284766" stroke-width="2"/>
+  <circle cx="39" cy="38" r="11" fill="#ff5f57"/>
+  <circle cx="73" cy="38" r="11" fill="#febc2e"/>
+  <circle cx="107" cy="38" r="11" fill="#28c840"/>
+  <text x="145" y="45" fill="#a9c3df" font-family="monospace" font-size="20">
+    ali@portfolio:~$ whoami
+  </text>
+
+  <!-- Portrait frame -->
+  <rect x="34" y="94" width="315" height="355" rx="10" fill="#071827"
+        stroke="#17344e" stroke-width="2"/>
+  <path d="M34 120V96H58 M325 96H349V120 M34 423V449H58 M325 449H349V423"
+        fill="none" stroke="#35b8ff" stroke-width="4"/>
+  <image href="profile.png" x="38" y="98" width="307" height="347"
+         preserveAspectRatio="xMidYMid slice"/>
+
+  <!-- Name / role -->
+  <text x="382" y="130" fill="#42bfff" font-family="monospace" font-size="31" font-weight="700">
+    &gt; Ali Raza Warriach
+  </text>
+  <text x="382" y="168" fill="#b6c9df" font-family="monospace" font-size="18">
+    Data Scientist | Data Analyst | ML Engineer
+  </text>
+  <path d="M382 190H810" stroke="#2d82b5" stroke-width="2"/>
+
+  <!-- Skills -->
+  <text x="382" y="222" fill="#b6c9df" font-family="monospace" font-size="18" font-weight="700">
+    SKILLS &amp; TOOLS
+  </text>
+  <text x="382" y="257" fill="#46c3ff" font-family="monospace" font-size="17">Python</text>
+  <text x="482" y="257" fill="#46c3ff" font-family="monospace" font-size="17">Machine Learning</text>
+  <text x="655" y="257" fill="#46c3ff" font-family="monospace" font-size="17">SQL</text>
+  <text x="710" y="257" fill="#46c3ff" font-family="monospace" font-size="17">Power BI</text>
+  <text x="382" y="284" fill="#91a9c3" font-family="monospace" font-size="15">Pandas • NumPy • Scikit-learn</text>
+
+  <path d="M382 306H810" stroke="#234a67" stroke-width="2"/>
+
+  <!-- What I do -->
+  <text x="382" y="337" fill="#b6c9df" font-family="monospace" font-size="18" font-weight="700">
+    WHAT I DO
+  </text>
+  <text x="382" y="367" fill="#9fb8d3" font-family="monospace" font-size="15">&gt; Build data-driven solutions</text>
+  <text x="382" y="393" fill="#9fb8d3" font-family="monospace" font-size="15">&gt; Analyze data &amp; find insights</text>
+  <text x="382" y="419" fill="#9fb8d3" font-family="monospace" font-size="15">&gt; Develop ML models</text>
+
+  <!-- Prompt -->
+  <path d="M382 442H810" stroke="#234a67" stroke-width="2"/>
+  <text x="382" y="477" fill="#39baff" font-family="monospace" font-size="16">
+    ali@portfolio:~$ 
+  </text>
+  <rect x="548" y="462" width="10" height="19" fill="#39baff">
+    <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
+'''
+
+info_svg = r'''<svg xmlns="http://www.w3.org/2000/svg" width="700" height="390" viewBox="0 0 700 390">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07111f"/>
+      <stop offset="100%" stop-color="#10243a"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="8" y="8" width="684" height="374" rx="20" fill="url(#bg)"
+        stroke="#284766" stroke-width="2"/>
+
+  <text x="35" y="48" fill="#42bfff" font-family="monospace" font-size="22" font-weight="700">
+    &gt; profile.info
+  </text>
+  <path d="M35 66H665" stroke="#2d82b5" stroke-width="2"/>
+
+  <text x="35" y="103" fill="#7fcfff" font-family="monospace" font-size="15">NAME</text>
+  <text x="190" y="103" fill="#d4e3f1" font-family="monospace" font-size="15">Ali Raza Warriach</text>
+
+  <text x="35" y="137" fill="#7fcfff" font-family="monospace" font-size="15">ROLE</text>
+  <text x="190" y="137" fill="#d4e3f1" font-family="monospace" font-size="15">Data Scientist / Analyst</text>
+
+  <text x="35" y="171" fill="#7fcfff" font-family="monospace" font-size="15">FOCUS</text>
+  <text x="190" y="171" fill="#d4e3f1" font-family="monospace" font-size="15">ML • Data • AI</text>
+
+  <text x="35" y="205" fill="#7fcfff" font-family="monospace" font-size="15">STACK</text>
+  <text x="190" y="205" fill="#d4e3f1" font-family="monospace" font-size="15">Python • SQL • Power BI</text>
+
+  <text x="35" y="239" fill="#7fcfff" font-family="monospace" font-size="15">TOOLS</text>
+  <text x="190" y="239" fill="#d4e3f1" font-family="monospace" font-size="15">Pandas • NumPy • Scikit-learn</text>
+
+  <path d="M35 265H665" stroke="#234a67" stroke-width="2"/>
+
+  <text x="35" y="300" fill="#b6c9df" font-family="monospace" font-size="15">&gt; Turning complex data into</text>
+  <text x="35" y="326" fill="#b6c9df" font-family="monospace" font-size="15">&gt; clear, actionable insights.</text>
+
+  <text x="35" y="357" fill="#42bfff" font-family="monospace" font-size="14">
+    status: available_for_new_challenges ✓
+  </text>
+</svg>
+'''
+
+(out / "terminal-card.svg").write_text(terminal_svg, encoding="utf-8")
+(out / "info-card.svg").write_text(info_svg, encoding="utf-8")
+print("Created:")
+print(out / "terminal-card.svg")
+print(out / "info-card.svg")
+
