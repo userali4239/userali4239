@@ -31,7 +31,7 @@
         stroke="#17344e" stroke-width="2"/>
   <path d="M34 120V96H58 M325 96H349V120 M34 423V449H58 M325 449H349V423"
         fill="none" stroke="#35b8ff" stroke-width="4"/>
-  <image href="profile.png" x="38" y="98" width="307" height="347"
+  <image href="https://raw.githubusercontent.com/userali4239/userali4239/main/profile.png" x="38" y="98" width="307" height="347"
          preserveAspectRatio="xMidYMid slice"/>
 
   <!-- Name / role -->
