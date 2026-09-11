@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="390" viewBox="0 0 700 390">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07111f"/>
+      <stop offset="100%" stop-color="#10243a"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="8" y="8" width="684" height="374" rx="20" fill="url(#bg)"
+        stroke="#284766" stroke-width="2"/>
+
+  <text x="35" y="48" fill="#42bfff" font-family="monospace" font-size="22" font-weight="700">
+    &gt; profile.info
+  </text>
+  <path d="M35 66H665" stroke="#2d82b5" stroke-width="2"/>
+
+  <text x="35" y="103" fill="#7fcfff" font-family="monospace" font-size="15">NAME</text>
+  <text x="190" y="103" fill="#d4e3f1" font-family="monospace" font-size="15">Ali Raza Warriach</text>
+
+  <text x="35" y="137" fill="#7fcfff" font-family="monospace" font-size="15">ROLE</text>
+  <text x="190" y="137" fill="#d4e3f1" font-family="monospace" font-size="15">Data Scientist / Analyst</text>
+
+  <text x="35" y="171" fill="#7fcfff" font-family="monospace" font-size="15">FOCUS</text>
+  <text x="190" y="171" fill="#d4e3f1" font-family="monospace" font-size="15">ML • Data • AI</text>
+
+  <text x="35" y="205" fill="#7fcfff" font-family="monospace" font-size="15">STACK</text>
+  <text x="190" y="205" fill="#d4e3f1" font-family="monospace" font-size="15">Python • SQL • Power BI</text>
+
+  <text x="35" y="239" fill="#7fcfff" font-family="monospace" font-size="15">TOOLS</text>
+  <text x="190" y="239" fill="#d4e3f1" font-family="monospace" font-size="15">Pandas • NumPy • Scikit-learn</text>
+
+  <path d="M35 265H665" stroke="#234a67" stroke-width="2"/>
+
+  <text x="35" y="300" fill="#b6c9df" font-family="monospace" font-size="15">&gt; Turning complex data into</text>
+  <text x="35" y="326" fill="#b6c9df" font-family="monospace" font-size="15">&gt; clear, actionable insights.</text>
+
+  <text x="35" y="357" fill="#42bfff" font-family="monospace" font-size="14">
+    status: available_for_new_challenges ✓
+  </text>
+</svg>
