@@ -10,14 +10,14 @@
 
 
 
-<p align="center">
-  <img src="github-contribution-animation.svg" alt="GitHub Contribution Graph" width="850"/>
-</p>
-
-<table>
+<table align="center">
   <tr>
-    <td valign="centre"><img src="terminal-card.svg" alt="ASCII Portrait" width="400"/></td>
-    <td valign="top"><img src="info-card.svg" alt="Info Card" width="500"/></td>
+    <td align="center" valign="top">
+      <img src="terminal-card.svg" alt="Terminal Profile" width="400"/>
+    </td>
+    <td align="center" valign="top">
+      <img src="info-card.svg" alt="Info Card" width="400"/>
+    </td>
   </tr>
 </table>
 
