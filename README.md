@@ -98,29 +98,18 @@
 ---
 
 ## 📊 GitHub Stats & Trophies
-
 <div align="center">
+ 
 
-<img src="https://github-readme-stats.vercel.app/api?username=userali4239&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=userali4239&theme=tokyonight&hide_border=true" height="170"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=userali4239&locale=en" height="170"/>
 </div>
 
-<br>
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=userali4239&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
-
+ 
 </div>
 
-<br>
-
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=userali4239&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
-
+  
 </div>
 
 ---
