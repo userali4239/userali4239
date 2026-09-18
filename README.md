@@ -86,7 +86,8 @@
 </div> 
 
 ## 📊 GitHub Stats & Trophies
-
+<div align="center">
+ 
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=userali4239&locale=en" height="170"/>
 </div>
