@@ -97,9 +97,7 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=userali4239&show_icons=true&locale=en&layout=compact" alt="userali4239" style="height: 170;">
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=userali4239&theme=dracula&margin-w=15&no-frame=true" />
-</div>
+
 
 ## 🌐 Connect with Me
 
