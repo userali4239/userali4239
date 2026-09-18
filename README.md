@@ -4,7 +4,7 @@
 <div align="center">
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=userali4239.userali4239" />
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hey+There!+👋;Welcome+to+My+Coding+Universe!+🌌;I'm+Ali+Raza+Warriach!+🚀;Data+Analyst+📊;AI/ML+Engineer+🤖;Python+Developer+🐍;SQL+%7C+Power+BI+%7C+ML+🔥" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hey+There!+👋;Welcome+to+My+Coding+Universe!+🌌;I'm+Ali+Raza+Warriach!+🚀;Data+Analyst+📊;ML+Engineer+🤖;Python+Developer+🐍;SQL+%7C+Power+BI+%7C+AI/ML+🔥" />
 </div>
 
 
