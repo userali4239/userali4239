@@ -1,28 +1,16 @@
 <!-- PROFILE HEADER -->
-![logo](https://github.com/userali4239/userali4239/blob/main/Github%20Banner.png)
+
+![GitHub Banner](https://raw.githubusercontent.com/userali4239/userali4239/main/Github%20Banner.png)
 
 <div align="center">
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=userali4239.userali4239" />
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hey+There!+👋;Welcome+to+My+Coding+Universe!+🌌;I'm+Ali+Raza+Warriach!+🚀;Data+Analyst+📊;ML+Engineer+🤖;Python+Developer+🐍;SQL+%7C+Power+BI+%7C+AI/ML+🔥" />
+
 </div>
 
-
---------
-
-<!--
-<table align="center">
-  <tr>
-    <td align="center" valign="top">
-      <img src="terminal-card.svg" alt="Terminal Profile" width="400"/>
-    </td>
-    <td align="center" valign="top">
-      <img src="info-card.svg" alt="Info Card" width="400"/>
-    </td>
-  </tr>
-</table>
--->
-
+---
 
 ## 💻 About Me
 
@@ -50,13 +38,15 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
+---
+
 ## 🛠️ Languages & Tools
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,flutter,dart,firebase,figma,vscode,github" />
 
-<br> <br>
+<br><br>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" />
@@ -66,45 +56,20 @@
 <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="45" />
 
 </div>
-<!-- <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,flutter,dart,firebase,figma,vscode,github" />
-</div>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+
+**Python • SQL • Power BI • Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn • Microsoft Excel**
+
 </div>
-
-<br> <br>
-
-<p align="center">
-  <b>
-    Python • SQL • Power BI • Pandas • NumPy • Matplotlib • Seaborn •
-    Scikit-learn • Microsoft Excel
-  </b>
-</p>
-
- <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,flutter,dart,firebase,figma,vscode,github" />
-</div>
-
-<p align="center">
-  <b>Python • SQL • Power BI • Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn • Microsoft Excel</b>
-</p>
-
-
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
+---
 
 ## 🚀 Featured Projects
 
@@ -116,8 +81,9 @@
 | 📱 **SubArfa**                   | Cross-platform social media engagement and rewards application with task-based earning and Firebase integration.             | Flutter, Dart, Firebase                            |
 | 💰 **Nova Finance**              | Modern personal finance application featuring financial dashboards, transaction tracking, budgeting, and analytics.          | Flutter, Dart, Riverpod, FL Chart                  |
 
-> *Currently building more Data Analytics & Machine Learning projects!*
-> 💡 *More data-driven projects coming soon… stay tuned!* 🚀
+> 🚀 Currently building more **Data Analytics & Machine Learning projects!**
+
+---
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -126,45 +92,62 @@
 ## 📈 Contribution Snake 😆
 
 <p align="center">
-   <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div> 
+---
 
 ## 📊 GitHub Stats & Trophies
-<div align="center">
- 
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=userali4239&locale=en" height="170"/>
-</div>
 
 <div align="center">
- 
+
+<img src="https://github-readme-stats.vercel.app/api?username=userali4239&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=userali4239&theme=tokyonight&hide_border=true" height="170"/>
+
 </div>
+
+<br>
 
 <div align="center">
-  
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=userali4239&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+
 </div>
 
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=userali4239&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+
+</div>
+
+---
 
 ## 🌐 Connect with Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/userali4239" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.facebook.com/userali4239" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/@userali4239" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-D14836?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/userali4239" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+
+<a href="https://www.linkedin.com/in/userali4239" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/userali4239" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@userali4239" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-D14836?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/userali4239" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
 </div>
+
+---
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -173,13 +156,21 @@
 ## ☕ Data Analysis Fuel 😆
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
-  <br><br>
-  <b>“Clean 📊. Analyze 🔍. Visualize 📈. Repeat 🔁.”</b>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
+
+<br><br>
+
+<b>“Clean 📊. Analyze 🔍. Visualize 📈. Repeat 🔁.”</b>
+
 </div>
+
+---
 
 ## 🎉 Thanks for Visiting!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&color=199A8E&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+For+Visiting!+❤️;Let's+Connect+Build+Something+Awesome!;Happy+Coding+🔥;" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&color=199A8E&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+For+Visiting!+❤️;Let's+Connect+Build+Something+Awesome!;Happy+Coding+🔥;" />
+
 </div>
