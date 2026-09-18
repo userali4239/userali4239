@@ -52,7 +52,38 @@
 
 ## 🛠️ Languages & Tools
 
+<!-- 🛠️ Languages & Tools -->
+
+<h2>🛠️ Languages & Tools</h2>
+
 <div align="center">
+
+  <!-- Programming Languages -->
+  <h3>💻 Programming & Development</h3>
+  <img src="https://skillicons.dev/icons?i=python,flutter,dart" />
+  
+  <br><br>
+
+  <!-- Databases & Tools -->
+  <h3>🗄️ Database & Development Tools</h3>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,figma,vscode,github" />
+
+  <br><br>
+
+  <!-- Data Science & Analytics -->
+  <h3>📊 Data Science & Analytics</h3>
+
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+
+</div>
+
+<!-- <div align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,flutter,dart,firebase,figma,vscode,github" />
 </div>
 
@@ -75,7 +106,7 @@
     Python • SQL • Power BI • Pandas • NumPy • Matplotlib • Seaborn •
     Scikit-learn • Microsoft Excel
   </b>
-</p>
+</p> -->
 
 <!-- <div align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,flutter,dart,firebase,figma,vscode,github" />
