@@ -58,31 +58,18 @@
 
 <div align="center">
 
-  <!-- Programming Languages -->
-  <h3>💻 Programming & Development</h3>
-  <img src="https://skillicons.dev/icons?i=python,flutter,dart" />
-  
-  <br><br>
+<img src="https://skillicons.dev/icons?i=python,mysql,postgresql,flutter,dart,firebase,figma,vscode,github" />
 
-  <!-- Databases & Tools -->
-  <h3>🗄️ Database & Development Tools</h3>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,figma,vscode,github" />
+<br>
 
-  <br><br>
-
-  <!-- Data Science & Analytics -->
-  <h3>📊 Data Science & Analytics</h3>
-
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" />
+<img src="https://img.icons8.com/color/96/power-bi.png" width="45" />
+<img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="45" />
 
 </div>
-
 <!-- <div align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,flutter,dart,firebase,figma,vscode,github" />
 </div>
